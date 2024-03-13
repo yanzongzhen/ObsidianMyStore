@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "报价/项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62bec4de49c996f1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "报价/项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox.md",
+                "file": "报价/项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md"
+                "file": "报价/项目.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +166,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6a51aa1bfab8053",
+  "active": "6f28fabe9d665f41",
   "lastOpenFiles": [
-    "README.md",
     "Inbox.md",
+    "报价/项目.md",
+    "报价",
+    "README.md",
     "工作计划/2024-03-13.md",
     "2024, March 13 - Wednesday.md",
     "工作计划",
