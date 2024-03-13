@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6a51aa1bfab8053",
+            "id": "496cad601765c394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交接文档/文档协作.md",
+                "file": "交接文档/K8S告警.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "496cad601765c394",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/BoomEditor.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BoomEditor.excalidraw.md",
+                "file": "交接文档/K8S告警.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BoomEditor.excalidraw.md",
+                "file": "交接文档/K8S告警.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BoomEditor.excalidraw.md"
+                "file": "交接文档/K8S告警.md"
               }
             }
           },
@@ -175,15 +164,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a28b4ebe0bc337a9",
+  "active": "496cad601765c394",
   "lastOpenFiles": [
     "交接文档/文档协作.md",
-    "Excalidraw/BoomEditor.excalidraw.md",
     "交接文档/Blicense.md",
     "交接文档/BRTC.md",
+    "交接文档/K8S告警.md",
     "交接文档/PSTN.md",
-    "交接文档/WTN.md",
     "交接文档/百家云转换代理.md",
+    "README.md",
+    "交接文档/image/BoomEditor.excalidraw.png",
+    "Excalidraw/BoomEditor.excalidraw.md",
+    "交接文档/WTN.md",
     "Inbox.md",
     "image.md",
     "交接文档/image/Blicense.excalidraw.png",
@@ -193,7 +185,6 @@
     "交接文档/OnlyOffice.md",
     "报价/项目.md",
     "报价",
-    "README.md",
     "工作计划/2024-03-13.md",
     "2024, March 13 - Wednesday.md",
     "工作计划",
