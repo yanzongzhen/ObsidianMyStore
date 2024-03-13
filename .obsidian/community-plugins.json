@@ -4,5 +4,8 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "tasks-calendar-wrapper",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-mind-map"
 ]
