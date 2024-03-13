@@ -58,3 +58,15 @@ func CheckLicense() (int, string) {
 
 
 ```
+
+
+### 集成编译镜像
+
+```shell
+cd msg
+
+./licensebuild.sh -a=x86 -t=image-tag
+
+./licensebuild.sh -a=x86 -t=image-tag -p
+
+```
