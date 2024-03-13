@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +164,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a28b4ebe0bc337a9",
+  "active": "d6a51aa1bfab8053",
   "lastOpenFiles": [
-    "README.md",
+    "2024, March 13 - Wednesday.md",
     "工作计划/2024-03-13.md",
+    "README.md",
     "工作计划",
     "TodoList.md",
     "环境数据",
