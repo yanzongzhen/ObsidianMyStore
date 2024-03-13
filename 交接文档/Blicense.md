@@ -13,16 +13,16 @@
 
 ```shell
 
-./blicense server
+./blicense server -p 8080
 
 ```
 
 ### 客户授权代理
 
 
-```
+```shell
 
-./blicense proxy
+./blicense proxy -p 8090
 
 ```
 
