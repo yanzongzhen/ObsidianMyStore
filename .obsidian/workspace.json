@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62bec4de49c996f1",
@@ -166,7 +165,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6f28fabe9d665f41",
+  "active": "d6a51aa1bfab8053",
   "lastOpenFiles": [
     "Inbox.md",
     "报价/项目.md",
