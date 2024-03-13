@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "496cad601765c394",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/BoomEditor.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交接文档/文档协作.md",
+                "file": "Excalidraw/BoomEditor.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "交接文档/文档协作.md",
+                "file": "Excalidraw/BoomEditor.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交接文档/文档协作.md"
+                "file": "Excalidraw/BoomEditor.excalidraw.md"
               }
             }
           },
@@ -164,13 +175,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6a51aa1bfab8053",
+  "active": "a28b4ebe0bc337a9",
   "lastOpenFiles": [
+    "交接文档/文档协作.md",
+    "Excalidraw/BoomEditor.excalidraw.md",
     "交接文档/Blicense.md",
     "交接文档/BRTC.md",
     "交接文档/PSTN.md",
     "交接文档/WTN.md",
-    "交接文档/文档协作.md",
     "交接文档/百家云转换代理.md",
     "Inbox.md",
     "image.md",
