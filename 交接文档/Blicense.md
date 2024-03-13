@@ -70,3 +70,11 @@ cd msg
 ./licensebuild.sh -a=x86 -t=image-tag -p
 
 ```
+
+```shell
+
+./licensebuild.sh -a=arm -t=image-tag
+
+./licensebuild.sh -a=arm -t=image-tag -p
+
+```
