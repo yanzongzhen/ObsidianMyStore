@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TodoList.md",
-                "mode": "preview",
+                "file": "工作计划/2024-03-13.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TodoList.md",
+                "file": "工作计划/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TodoList.md",
+                "file": "工作计划/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TodoList.md"
+                "file": "工作计划/2024-03-13.md"
               }
             }
           },
@@ -165,8 +165,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6a51aa1bfab8053",
+  "active": "a28b4ebe0bc337a9",
   "lastOpenFiles": [
+    "README.md",
+    "工作计划/2024-03-13.md",
+    "工作计划",
     "TodoList.md",
     "环境数据",
     "交接文档",
@@ -174,7 +177,6 @@
     "Hello.md",
     "Excalidraw/Drawing 2024-03-13 14.21.59.excalidraw.md",
     "Excalidraw",
-    "README.md",
     "readme.md"
   ]
 }
