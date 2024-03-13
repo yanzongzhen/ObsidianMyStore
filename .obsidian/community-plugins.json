@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-auto-link-title",
   "obsidian-admonition",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "tasks-calendar-wrapper",
+  "obsidian-tasks-plugin"
 ]
