@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2024-03-13.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2024-03-13.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2024-03-13.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2024-03-13.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "d6a51aa1bfab8053",
   "lastOpenFiles": [
-    "2024, March 13 - Wednesday.md",
+    "Inbox.md",
     "工作计划/2024-03-13.md",
+    "2024, March 13 - Wednesday.md",
     "README.md",
     "工作计划",
     "TodoList.md",
