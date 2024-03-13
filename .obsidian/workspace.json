@@ -11,18 +11,6 @@
             "id": "d6a51aa1bfab8053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "交接文档/Blicense.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080a4317aa7b252f",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
                 "file": "交接文档/image/Blicense.excalidraw.png"
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交接文档/Blicense.md",
+                "file": "交接文档/image/Blicense.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "交接文档/Blicense.md",
+                "file": "交接文档/image/Blicense.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交接文档/Blicense.md"
+                "file": "交接文档/image/Blicense.excalidraw.png"
               }
             }
           },
@@ -174,17 +162,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6a51aa1bfab8053",
+  "active": "a28b4ebe0bc337a9",
   "lastOpenFiles": [
-    "交接文档/image/Blicense.excalidraw.png",
+    "交接文档/百家云转换代理.md",
+    "交接文档/文档编辑.md",
     "交接文档/Blicense.md",
+    "交接文档/BRTC.md",
+    "交接文档/PSTN.md",
+    "交接文档/WTN.md",
+    "image.md",
+    "交接文档/image/Blicense.excalidraw.png",
     "交接文档/image",
     "Excalidraw/Blicense.excalidraw.md",
-    "交接文档/文档编辑.md",
-    "交接文档/PSTN.md",
-    "交接文档/百家云转换代理.md",
-    "交接文档/BRTC.md",
-    "交接文档/WTN.md",
     "交接文档/BoomEditor.md",
     "交接文档/OnlyOffice.md",
     "报价/项目.md",
