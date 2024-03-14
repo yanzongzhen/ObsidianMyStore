@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交接文档/WTN.md",
+                "file": "交接文档/Blicense.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交接文档/WTN.md",
+                "file": "交接文档/Blicense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "交接文档/WTN.md",
+                "file": "交接文档/Blicense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交接文档/WTN.md"
+                "file": "交接文档/Blicense.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "496cad601765c394",
   "lastOpenFiles": [
+    "Pasted image 20240314163834.png",
+    "交接文档/WTN.md",
     "Inbox.md",
     "README.md",
     "2024-03-14.md",
@@ -176,7 +178,6 @@
     "交接文档/机器账号权限.md",
     "交接文档/K8S告警.md",
     "交接文档/PSTN.md",
-    "交接文档/WTN.md",
     "未命名.canvas",
     "交接文档/文档协作.md",
     "交接文档/image/BoomEditor.excalidraw.png",
