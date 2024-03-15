@@ -20,5 +20,5 @@
 
 | 环境   | api                                | path                      | slat               |
 | ---- | ---------------------------------- | ------------------------- | ------------------ |
-| test | https://brtc-apitest.baijiayun.com | /vcs/rtc-wtn/get-app-info | BosU89ccWCEiSMIMiS |
-| prod | https://brtc-api.baijiayun.com     | /vcs/rtc-wtn/get-app-info | EosM87ssffEOSMICoS |
+| test | https://brtc-apitest.baijiayun.com | /vcs/rtc-wtn/get-app-info | EosM87ssffEOSMICoS |
+| prod | https://brtc-api.baijiayun.com     | /vcs/rtc-wtn/get-app-info | BosU89ccWCEiSMIMiS |
