@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/WTN.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/WTN.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/WTN.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/WTN.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -164,21 +164,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "740481c990404e10",
+  "active": "c0c5872eea803bd3",
   "lastOpenFiles": [
+    "工作文档/百家云转换代理.md",
     "工作文档/机器账号权限.md",
-    "工作文档/K8S告警.md",
-    "工作文档/Blicense.md",
     "工作文档/文档协作.md",
-    "Inbox.md",
+    "工作文档/Blicense.md",
+    "工作文档/BRTC.md",
     "工作文档/WTN.md",
+    "工作文档/PSTN.md",
+    "工作文档/K8S告警.md",
+    "Inbox.md",
     "工作文档/image/Pasted image 20240314163834.png",
     "工作文档/image/Pasted image 20240314164803.png",
     "README.md",
     "2024-03-14.md",
-    "工作文档/BRTC.md",
-    "工作文档/百家云转换代理.md",
-    "工作文档/PSTN.md",
     "未命名.canvas",
     "工作文档/image/BoomEditor.excalidraw.png",
     "Excalidraw/BoomEditor.excalidraw.md",
