@@ -11,8 +11,12 @@
             "id": "32736bcb4d5c9c2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "工作文档/工作总结.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/BRTC.md",
+                "file": "工作文档/工作总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/BRTC.md",
+                "file": "工作文档/工作总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/BRTC.md"
+                "file": "工作文档/工作总结.md"
               }
             }
           },
@@ -162,34 +166,35 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a28b4ebe0bc337a9",
+  "active": "32736bcb4d5c9c2c",
   "lastOpenFiles": [
-    "textgenerator/templates/default/simplify.md",
+    "README.md",
+    "工作文档/工作总结.md",
     "textgenerator/templates/default/rewrite.md",
     "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getParagraph.md",
     "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "Inbox.md",
+    "工作文档/BRTC.md",
+    "textgenerator/templates/default/simplify.md",
     "textgenerator/templates/default/summarizeLarge.md",
     "textgenerator/templates/default/getTags.md",
-    "textgenerator/templates/default/getParagraph.md",
     "textgenerator/templates/default/getOutline.md",
     "textgenerator/templates/default/summarize.md",
     "textgenerator/templates/default/getEmailPos.md",
-    "textgenerator/templates/default/getEmailNeg.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
     "工作文档/WTN.md",
-    "Inbox.md",
     "工作文档/百家云转换代理.md",
     "工作文档/机器账号权限.md",
     "工作文档/文档协作.md",
     "工作文档/Blicense.md",
-    "工作文档/BRTC.md",
     "工作文档/PSTN.md",
     "工作文档/K8S告警.md",
     "工作文档/image/Pasted image 20240314163834.png",
     "工作文档/image/Pasted image 20240314164803.png",
-    "README.md",
     "2024-03-14.md",
     "未命名.canvas",
     "工作文档/image/BoomEditor.excalidraw.png",
@@ -198,7 +203,6 @@
     "工作文档/image/Blicense.excalidraw.png",
     "工作文档/image",
     "Excalidraw/Blicense.excalidraw.md",
-    "交接文档/BoomEditor.md",
     "报价",
     "工作计划",
     "环境数据",
