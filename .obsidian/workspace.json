@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/Blicense.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/Blicense.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/Blicense.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/Blicense.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -161,25 +161,26 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "protected-note:Block Obsidian": false
     }
   },
-  "active": "993a40c8db8cb369",
+  "active": "a28b4ebe0bc337a9",
   "lastOpenFiles": [
-    "工作文档/image/Pasted image 20240314163834.png",
-    "工作文档/Blicense.md",
-    "工作文档/image/Pasted image 20240314164803.png",
     "工作文档/WTN.md",
+    "工作文档/K8S告警.md",
+    "工作文档/文档协作.md",
+    "工作文档/Blicense.md",
+    "工作文档/image/Pasted image 20240314163834.png",
+    "工作文档/image/Pasted image 20240314164803.png",
     "Inbox.md",
     "README.md",
     "2024-03-14.md",
     "工作文档/BRTC.md",
     "工作文档/百家云转换代理.md",
     "工作文档/机器账号权限.md",
-    "工作文档/K8S告警.md",
     "工作文档/PSTN.md",
     "未命名.canvas",
-    "工作文档/文档协作.md",
     "工作文档/image/BoomEditor.excalidraw.png",
     "Excalidraw/BoomEditor.excalidraw.md",
     "image.md",
