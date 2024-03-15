@@ -11,3 +11,14 @@
 关联Redmine: [WTN](https://redmine.baijiashilian.com/issues/37175)
 
 
+
+## 部署相关
+
+
+### api配置
+
+
+| 环境   | api                                | path                      | slat               |
+| ---- | ---------------------------------- | ------------------------- | ------------------ |
+| test | https://brtc-apitest.baijiayun.com | /vcs/rtc-wtn/get-app-info | BosU89ccWCEiSMIMiS |
+| prod | https://brtc-api.baijiayun.com     | /vcs/rtc-wtn/get-app-info | EosM87ssffEOSMICoS |

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/K8S告警.md",
+                "file": "工作文档/WTN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/K8S告警.md",
+                "file": "工作文档/WTN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/K8S告警.md",
+                "file": "工作文档/WTN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/K8S告警.md"
+                "file": "工作文档/WTN.md"
               }
             }
           },
@@ -164,12 +164,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d142de020e255a3c",
+  "active": "c0c5872eea803bd3",
   "lastOpenFiles": [
-    "工作文档/Blicense.md",
-    "工作文档/K8S告警.md",
-    "工作文档/文档协作.md",
     "工作文档/机器账号权限.md",
+    "工作文档/K8S告警.md",
+    "工作文档/Blicense.md",
+    "工作文档/文档协作.md",
     "Inbox.md",
     "工作文档/WTN.md",
     "工作文档/image/Pasted image 20240314163834.png",
