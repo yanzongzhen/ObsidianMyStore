@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "工作文档/机器账号权限.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "工作文档/机器账号权限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox.md",
+                "file": "工作文档/机器账号权限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md"
+                "file": "工作文档/机器账号权限.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "993a40c8db8cb369",
+            "id": "ea414d5cef7b7017",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -165,15 +165,15 @@
       "protected-note:Block Obsidian": false
     }
   },
-  "active": "a28b4ebe0bc337a9",
+  "active": "ea414d5cef7b7017",
   "lastOpenFiles": [
+    "Inbox.md",
     "工作文档/WTN.md",
     "工作文档/K8S告警.md",
     "工作文档/文档协作.md",
     "工作文档/Blicense.md",
     "工作文档/image/Pasted image 20240314163834.png",
     "工作文档/image/Pasted image 20240314164803.png",
-    "Inbox.md",
     "README.md",
     "2024-03-14.md",
     "工作文档/BRTC.md",
