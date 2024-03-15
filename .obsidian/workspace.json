@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/机器账号权限.md",
+                "file": "工作文档/K8S告警.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/机器账号权限.md",
+                "file": "工作文档/K8S告警.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/机器账号权限.md",
+                "file": "工作文档/K8S告警.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/机器账号权限.md"
+                "file": "工作文档/K8S告警.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "ea414d5cef7b7017",
+            "id": "d142de020e255a3c",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -161,24 +161,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "protected-note:Block Obsidian": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea414d5cef7b7017",
+  "active": "d142de020e255a3c",
   "lastOpenFiles": [
-    "Inbox.md",
-    "工作文档/WTN.md",
+    "工作文档/Blicense.md",
     "工作文档/K8S告警.md",
     "工作文档/文档协作.md",
-    "工作文档/Blicense.md",
+    "工作文档/机器账号权限.md",
+    "Inbox.md",
+    "工作文档/WTN.md",
     "工作文档/image/Pasted image 20240314163834.png",
     "工作文档/image/Pasted image 20240314164803.png",
     "README.md",
     "2024-03-14.md",
     "工作文档/BRTC.md",
     "工作文档/百家云转换代理.md",
-    "工作文档/机器账号权限.md",
     "工作文档/PSTN.md",
     "未命名.canvas",
     "工作文档/image/BoomEditor.excalidraw.png",
