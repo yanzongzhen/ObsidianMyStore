@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/Blicense.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62bec4de49c996f1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/Blicense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/Blicense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/工作总结.md"
+                "file": "工作文档/Blicense.md"
               }
             }
           },
@@ -170,8 +169,8 @@
   },
   "active": "32736bcb4d5c9c2c",
   "lastOpenFiles": [
-    "README.md",
     "工作文档/工作总结.md",
+    "README.md",
     "textgenerator/templates/default/rewrite.md",
     "textgenerator/templates/default/getTitles.md",
     "textgenerator/templates/default/getParagraph.md",
