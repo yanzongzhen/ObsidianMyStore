@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "740481c990404e10",
+            "id": "a382418f59b48da0",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "32736bcb4d5c9c2c",
+  "active": "a382418f59b48da0",
   "lastOpenFiles": [
     "工作文档/Blicense.md",
     "工作文档/工作总结.md",
