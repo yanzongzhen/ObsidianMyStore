@@ -3,8 +3,7 @@
 > Blicense 是BRTC平台在私有化的时候部署的权限认证服务， 主要用于对授权用户进行约束，授权时间和授权的方数进行限制。
 
 
-![](Blicense.excalidraw.png)
-
+![](image/Blicense.excalidraw.png)
 ## 部署
 
 
@@ -19,7 +18,7 @@
 
 自带的签发页面
 
-![[Pasted image 20240314163834.png]]
+![[image/Pasted image 20240314163834.png]]
 
 ### 客户授权代理
 
@@ -32,7 +31,7 @@
 
 客户侧使用证书的页面
 
-![[Pasted image 20240314164803.png]]
+![[image/Pasted image 20240314164803.png]]
 
 ## 集成
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/2024-03-15.md",
+                "file": "工作文档/Blicense.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/2024-03-15.md",
+                "file": "工作文档/Blicense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/2024-03-15.md",
+                "file": "工作文档/Blicense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/2024-03-15.md"
+                "file": "工作文档/Blicense.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +167,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a28b4ebe0bc337a9",
+  "active": "32736bcb4d5c9c2c",
   "lastOpenFiles": [
+    "工作文档/image/Blicense.excalidraw.png",
     "工作文档/Blicense.md",
     "工作文档/2024-03-15.md",
     "README.md",
@@ -200,9 +202,7 @@
     "工作文档/image/BoomEditor.excalidraw.png",
     "Excalidraw/BoomEditor.excalidraw.md",
     "image.md",
-    "工作文档/image/Blicense.excalidraw.png",
     "工作文档/image",
-    "Excalidraw/Blicense.excalidraw.md",
     "报价",
     "工作计划",
     "环境数据",
