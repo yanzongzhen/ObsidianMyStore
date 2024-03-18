@@ -168,3 +168,8 @@ freeswitch/conf/sip_profiles/external/my_gate.xml
 ```
 
 
+
+### 6. H264
+
+42e01f : Constrained Baseline Profile + Level 3.1  
+640c1f : Constrained High Profile + Level 3.1
