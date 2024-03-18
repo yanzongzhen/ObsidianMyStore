@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作文档/工作总结.md",
+                "file": "工作文档/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/工作总结.md"
+                "file": "工作文档/2024-03-15.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6d3a1d60d22ca629",
+  "active": "a28b4ebe0bc337a9",
   "lastOpenFiles": [
     "工作文档/Blicense.md",
-    "工作文档/工作总结.md",
+    "工作文档/2024-03-15.md",
     "README.md",
     "textgenerator/templates/default/rewrite.md",
     "textgenerator/templates/default/getTitles.md",
