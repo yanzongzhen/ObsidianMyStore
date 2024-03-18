@@ -31,8 +31,7 @@
 
 客户侧使用证书的页面
 
-![](image/Pasted image 20240314164803.png)
-
+![](image/blicense-client.png)
 ## 集成
 
 
