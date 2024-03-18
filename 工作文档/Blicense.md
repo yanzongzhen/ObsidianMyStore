@@ -83,3 +83,19 @@ cd msg
 ./licensebuild.sh -a=arm -t=image-tag -p
 
 ```
+
+
+### 测试环境
+
+
+#### 1. 签发端
+
+地址： [Blicense授权中心](http://10.16.30.65:31332/)
+
+#### 2. 客户授权端
+
+地址: [BRTC-Monitor](http://10.16.30.65:30642/)
+
+#### 3. 客户集成测试
+
+地址：[Site Unreachable](https://10.16.30.65:32006/)
