@@ -70,17 +70,17 @@ func CheckLicense() (int, string) {
 ```shell
 cd msg
 
-./licensebuild.sh -a=x86 -t=image-tag
+./dockerbuild.sh -f=Dockerfile.license -t=image-tag
 
-./licensebuild.sh -a=x86 -t=image-tag -p
+./dockerbuild.sh -f=Dockerfile.license -t=image-tag -p
 
 ```
 
 ```shell
 
-./licensebuild.sh -a=arm -t=image-tag
+./dockerbuild.sh -f=Dockerfile.license.arm -t=image-tag
 
-./licensebuild.sh -a=arm -t=image-tag -p
+./dockerbuild.sh -f=Dockerfile.license.arm -t=image-tag -p
 
 ```
 
