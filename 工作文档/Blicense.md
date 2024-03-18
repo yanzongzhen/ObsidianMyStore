@@ -18,7 +18,7 @@
 
 自带的签发页面
 
-![[image/Pasted image 20240314163834.png]]
+![](image/blicense-sign.png)
 
 ### 客户授权代理
 
@@ -31,7 +31,7 @@
 
 客户侧使用证书的页面
 
-![[image/Pasted image 20240314164803.png]]
+![](image/Pasted image 20240314164803.png)
 
 ## 集成
 
