@@ -188,6 +188,38 @@ cd msg
 ```
 
 
+### 配置
+
+1. admin
+
+增加 LICENSEURL 环境变量
+
+```yaml
+  - name: LICENSEURL
+    value: 'http://blicense-proxy:8090'
+```
+
+2. Messageing 配置
+
+新增 common.licenseServer 配置
+
+```yaml
+common:
+  licenseServer: http://blicense-proxy:8090
+```
+
+3. blicense-proxy 配置
+
+不需要额外配置， 只需要命令行启动
+
+
+```shell
+
+
+./blicense proxy -p 8090
+
+```
+
 ### 测试环境
 
 
