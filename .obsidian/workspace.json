@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "6d3a1d60d22ca629",
+            "id": "ca702d1767e1fbb7",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6c91734bd957c92f",
+  "active": "ca702d1767e1fbb7",
   "lastOpenFiles": [
     "工作文档/PSTN.md",
     "工作文档/Blicense.md",
